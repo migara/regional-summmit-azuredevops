@@ -28,3 +28,4 @@ github_asset_name: "azure test modules"
 tags:
 - Org:  PS
 - Team: Automation
+- Project: Terraform
