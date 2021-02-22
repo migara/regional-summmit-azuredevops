@@ -16,7 +16,7 @@ template_parameters: {}
 
 
 # Define tags to identify your particular scan. You can use these tags to search the scan details on the Prisma Cloud.
-tags:
-  Org:  PS
-  Team: Automation
-  Project: Terraform
+# tags:
+#   Org:  PS
+#   Team: Automation
+#   Project: Terraform
