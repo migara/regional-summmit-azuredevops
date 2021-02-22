@@ -25,7 +25,7 @@ failure_criteria_for_creating_issues:
 github_asset_name: "azure test modules"
 
 # Define tags
-tags:
-- Org:  PS
-- Team: Automation
-- Project: Terraform
+# tags:
+# - Org:  PS
+# - Team: Automation
+# - Project: Terraform
