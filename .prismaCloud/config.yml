@@ -12,7 +12,7 @@ terraform_version: 0.13
 # variable_files: Specify all the custom variable_files under here. It is an array of strings.
 # variable_files: If it is standard extension(.tfvars for terraform), then this can be omitted.
 # variable_files: For a custom extension, specify the variable file path from the root of the repo.
-template_parameters: {}
+# template_parameters: {}
 
 
 # Define tags to identify your particular scan. You can use these tags to search the scan details on the Prisma Cloud.
