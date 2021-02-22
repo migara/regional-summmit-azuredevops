@@ -8,5 +8,5 @@ output "pet" {
 }
 
 output "test" {
-  value = "hello world"
+  value = "hello world. "
 }
