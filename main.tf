@@ -4,7 +4,7 @@ resource "random_pet" "this" {}
 
 
 output "pet" {
-  value = random_pet.foo.id
+  value = random_pet.this.id
 }
 
 output "test" {
